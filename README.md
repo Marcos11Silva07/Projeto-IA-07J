@@ -1,4 +1,4 @@
-# Projeto-IA-07J  
+# Projeto-IA-07J 🖥️
 
 ## Disciplina:
 Inteligência Artificial – 7ºJ | SI - Prof. Dr. Leandro Zerbinatti  
